@@ -45,7 +45,7 @@ Una vez tengo guardados mis nuevos csv de train y test limpios procedemos al ent
 
     - Un archivo Readme
     
-CONCLUSIÓN FINAL:
+CONCLUSIÓN FINAL: comparando los modelos especificados en base al error cuadrático medio, el mejor es **DecisionTreeRegressor**. Este se ha mejorado respecto a él mismo con dos métodos, en primer lugar con el método "grid" y en segundo lugar con el método "cross_validate".
 
 
 ## RECURSOS UTILIZADOS:

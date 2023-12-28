@@ -51,7 +51,7 @@ CONCLUSIÓN FINAL: comparando los modelos especificados en base al error cuadrá
 ## RECURSOS UTILIZADOS:
 - [Kaggle data set](https://www.kaggle.com/c/diamonds-datamad1021-rev/leaderboard)
 
-- I have used the followingn libraries:
+- He usado las siguientes librerías:
     - [Pandas](https://pandas.pydata.org/)
     - [Numpy](https://numpy.org/doc/)
     - [Sklearn](https://scikit-learn.org/)
